@@ -1,0 +1,68 @@
+{
+    "historique_global": [
+        {
+            "commande": "!reset",
+            "utilisateur_nom": "Mathis",
+            "timestamp_lisible": "22/11/2025 - 00:44:14",
+            "timestamp_brut": 1763768654.211624
+        },
+        {
+            "commande": "!reset",
+            "utilisateur_nom": "Mathis",
+            "timestamp_lisible": "22/11/2025 - 00:10:21",
+            "timestamp_brut": 1763766621.6797156
+        },
+        {
+            "commande": "!speak",
+            "utilisateur_nom": "Mathis",
+            "timestamp_lisible": "22/11/2025 - 00:10:05",
+            "timestamp_brut": 1763766605.952163
+        },
+        {
+            "commande": "!speak",
+            "utilisateur_nom": 373889485089275908,
+            "timestamp_lisible": "22/11/2025 - 00:03:33",
+            "timestamp_brut": 1763766213.8509583
+        },
+        {
+            "commande": "!speak",
+            "utilisateur_nom": "Mathis",
+            "timestamp_lisible": "22/11/2025 - 00:03:33",
+            "timestamp_brut": 1763766213.515197
+        }
+    ],
+    "historiques_utilisateurs": {
+        "373889485089275908": [
+            {
+                "commande": "!reset",
+                "utilisateur_nom": "Mathis",
+                "timestamp_lisible": "22/11/2025 - 00:44:14",
+                "timestamp_brut": 1763768654.2116346
+            },
+            {
+                "commande": "!reset",
+                "utilisateur_nom": "Mathis",
+                "timestamp_lisible": "22/11/2025 - 00:10:21",
+                "timestamp_brut": 1763766621.6797209
+            },
+            {
+                "commande": "!speak",
+                "utilisateur_nom": "Mathis",
+                "timestamp_lisible": "22/11/2025 - 00:10:05",
+                "timestamp_brut": 1763766605.9521697
+            },
+            {
+                "commande": "!speak",
+                "utilisateur_nom": 373889485089275908,
+                "timestamp_lisible": "22/11/2025 - 00:03:33",
+                "timestamp_brut": 1763766213.8509638
+            },
+            {
+                "commande": "!speak",
+                "utilisateur_nom": "Mathis",
+                "timestamp_lisible": "22/11/2025 - 00:03:33",
+                "timestamp_brut": 1763766213.5152154
+            }
+        ]
+    }
+}
